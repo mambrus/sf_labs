@@ -1,0 +1,3 @@
+[submodule "doc/sf_labs.wiki"]
+	path = doc/sf_labs.wiki
+	url = git@github.com:mambrus/sf_labs.wiki.git
